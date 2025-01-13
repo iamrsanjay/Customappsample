@@ -4,10 +4,8 @@
     "\\app",
     "\\app\\components",
     "\\app\\components\\bodyContent",
-    "\\app\\components\\navbarComponent",
-    "\\public",
-    "\\public\\images"
+    "\\app\\components\\navbarComponent"
   ],
-  "SelectedNode": "\\app\\components\\bodyContent\\footer.jsx",
+  "SelectedNode": "\\tailwind.config.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,16 @@
+/* src/styles.css */
+
+.section {
+    margin-bottom: 50px;
+}
+
+.chart-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.chart-item {
+    width: 120px;
+    text-align: center;
+}

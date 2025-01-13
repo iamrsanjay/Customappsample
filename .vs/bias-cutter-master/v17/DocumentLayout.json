@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\navbarComponent\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\navbarComponent\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\recipeDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\recipeDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\planComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\planComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\hourBasedProduction.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\hourBasedProduction.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\bodyContent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\bodyContent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\angleWidthComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\bodyContent\\angleWidthComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\navbarComponent\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\components\\navbarComponent\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,70 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "recipeDetails.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\recipeDetails.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\recipeDetails.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\recipeDetails.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\recipeDetails.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T06:35:00.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "hourBasedProduction.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\hourBasedProduction.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\hourBasedProduction.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\hourBasedProduction.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\hourBasedProduction.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:50:35.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "angleWidthComponent.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\angleWidthComponent.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\angleWidthComponent.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\angleWidthComponent.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\angleWidthComponent.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:50:21.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "footer.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\footer.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\footer.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\footer.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\footer.jsx",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:45:06.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bodyContent.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\bodyContent.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\bodyContent.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\bodyContent.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\bodyContent.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:39:04.421Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -110,22 +28,21 @@
               "RelativeDocumentMoniker": "app\\components\\navbarComponent\\navbar.jsx",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\navbarComponent\\navbar.jsx",
               "RelativeToolTip": "app\\components\\navbarComponent\\navbar.jsx",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:36:33.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T15:34:47.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "planComponent.jsx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\planComponent.jsx",
-              "RelativeDocumentMoniker": "app\\components\\bodyContent\\planComponent.jsx",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\planComponent.jsx",
-              "RelativeToolTip": "app\\components\\bodyContent\\planComponent.jsx",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwGIAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "bodyContent.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\bodyContent.jsx",
+              "RelativeDocumentMoniker": "app\\components\\bodyContent\\bodyContent.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bias-cutter-master\\app\\components\\bodyContent\\bodyContent.jsx",
+              "RelativeToolTip": "app\\components\\bodyContent\\bodyContent.jsx",
+              "ViewState": "AgIAANoAAAAAAAAAAAAQwPkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-04T05:26:16.512Z",
+              "WhenOpened": "2025-01-10T08:43:59.221Z",
               "EditorCaption": ""
             }
           ]

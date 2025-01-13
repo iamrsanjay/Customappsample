@@ -19,63 +19,25 @@ const Navbar = () => {
         return () => clearInterval(timer);
     }, []);
 
-    // If the component is not yet mounted (no dateTime), render a placeholder
-    if (dateTime === null) {
-        return (
-            <div className="px-5">
-                <div className="bg-slate-100 flex flex-col py-[3.4rem] sticky top-0 z-50"></div>
-
-                <div className="bg-white flex items-center justify-between px-5 py-2 rounded-[20px] sticky top-12 -mt-16 z-50">
-                    {/* MRF Logo - Slightly increased size */}
-                    <Image
-                        className="rounded-md h-16 w-36" // Increased size of MRF logo
-                        alt="company logo"
-                        src={companyNameLogo}
-                        height={150}
-                        width={200}
-                    />
-
-                    {/* BIAS CUTTER text with increased margin */}
-                    <p className="font-bold text-center flex-grow ml-8">BIAS CUTTER</p> {/* Increased margin-left for more gap */}
-
-                    {/* Placeholder for Date and Time */}
-                    <div className="font-medium text-center">Loading...</div>
-
-                    {/* JD Logo */}
-                    <Image
-                        className="rounded-md"
-                        alt="jdtlogo"
-                        src={TvsMobility}
-                        height={150}
-                        width={150}
-                    />
-                </div>
-
-                <BodyContent />
-            </div>
-        );
-    }
-
     return (
-        <div className="px-5">
-            <div className="bg-slate-100 flex flex-col py-[3.4rem] sticky top-0 z-50"></div>
-
-            <div className="bg-white flex items-center justify-between px-5 py-2 rounded-[20px] sticky top-12 -mt-16 z-50">
-                {/* MRF Logo - Slightly increased size */}
+        <div className="flex flex-col h-screen">
+            {/* Navbar Section (Fixed on top) */}
+            <div className="bg-white flex items-center justify-between px-5 py-2 rounded-[20px] sticky top-0 z-50">
+                {/* MRF Logo */}
                 <Image
-                    className="rounded-md h-16 w-36" // Increased size of MRF logo
+                    className="rounded-md h-12 w-32"
                     alt="company logo"
                     src={companyNameLogo}
-                    height={150}
-                    width={200}
+                    height={50}
+                    width={150}
                 />
 
-                {/* BIAS CUTTER text with increased margin */}
-                <p className="font-bold text-center flex-grow ml-8">BIAS CUTTER</p> {/* Increased margin-left for more gap */}
+                {/* LP Compressor text */}
+                <p className="font-bold text-center flex-grow ml-8">LP Compressor</p>
 
                 {/* Current Date and Time */}
-                <div className="font-medium text-center flex-grow">
-                    {dateTime.toLocaleString()}
+                <div className="font-medium text-center flex-grow py-1 px-2">
+                    {dateTime ? dateTime.toLocaleString() : "Loading..."}
                 </div>
 
                 {/* JD Logo */}
@@ -83,12 +45,15 @@ const Navbar = () => {
                     className="rounded-md"
                     alt="jdtlogo"
                     src={TvsMobility}
-                    height={150}
-                    width={150}
+                    height={50}
+                    width={50}
                 />
             </div>
 
-            <BodyContent />
+            {/* BodyContent Section */}
+            <div className="flex-grow overflow-auto mt-4"> {/* mt-4 to give space below Navbar */}
+                <BodyContent />
+            </div>
         </div>
     );
 };
